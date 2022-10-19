@@ -1,2 +1,2 @@
-﻿double s = 4 * Math.PI * earthRadius * earthRadius;
-Console.WriteLine($"Plotas: {s}");
+﻿double v = (4.0 / 3.0) * Math.PI * earthRadius * earthRadius * earthRadius;
+Console.WriteLine($"Turis: {v}");
