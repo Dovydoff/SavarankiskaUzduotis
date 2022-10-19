@@ -1,3 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-fgdfg
+﻿int r = 6371;
+
+Console.WriteLine(r);
+
