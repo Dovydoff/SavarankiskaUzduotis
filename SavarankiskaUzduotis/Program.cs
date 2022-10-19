@@ -8,3 +8,7 @@ float pi = 3.14f;
 float pavirsiausPlotas = zemesSpindulys * zemesSpindulys * pi;
 Console.WriteLine(pavirsiausPlotas);
 
+
+
+
+//kasparo test 
