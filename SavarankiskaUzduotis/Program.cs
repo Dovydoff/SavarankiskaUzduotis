@@ -1,5 +1,2 @@
-﻿int r = 6371;
-
-Console.WriteLine(r);
-
-//testsdfsd
+﻿double s = 4 * Math.PI * earthRadius * earthRadius;
+Console.WriteLine($"Plotas: {s}");
